@@ -1,5 +1,9 @@
 This quiz demo is created using React JS and more specifically hooks.
 
+--> To open in broweser: 
+1. cd quiz-demo
+2. yarn start/npm start
+
 --> Let's refer to App.js file first. 
 
 After the proper imports of React components such as 'useState' and 'useEffect', we create the question and specify them with the right answer so we can keep the score.
