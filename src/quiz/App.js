@@ -93,7 +93,7 @@ function App() {
 		}
 	];
 
-	//the questions shown and the update form one question to another
+	//the questions shown and the update from one question to another
 	const [ currentQuestion, setCurrentQuestion ] = useState(0);
 	//if the user wants to see the score reached
 	const [ showScore, setShowScore ] = useState(false);
